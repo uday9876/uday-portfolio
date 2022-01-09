@@ -2,3 +2,42 @@ body{
     margin: 0;
     font-family: 'Cormorant Garamond', serif;
 }
+.strong{
+    color: rgb(27, 139, 23);
+}
+h1{
+    font-size: 50px;
+    
+}
+.haf-width img{
+    width: 100%;
+}
+.head{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+}
+
+
+.chik-me{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,rgb(19, 1, 1),tomato);
+    background-color: salmon;
+    padding: 10px 20px;
+    border-radius: 10%;
+    font-weight: 700;
+    color: aliceblue;
+
+
+}
+.haf-width{
+    width: 40%;
+    float: left;
+    padding-left: 7%;
+    
+}
+.paragirap{
+    color: rgb(168, 177, 184);
+}
