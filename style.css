@@ -19,7 +19,7 @@ h2{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    margin-top: 150px;
+    margin-bottom: 150px;
 }
 .chik-me{
     text-decoration: none;
