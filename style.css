@@ -9,6 +9,9 @@ h1{
     font-size: 50px;
     
 }
+h2{
+    font-size: 25px;
+}
 .haf-width img{
     width: 100%;
 }
@@ -16,17 +19,14 @@ h1{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    
-    
+    margin-top: 150px;
 }
-
-
 .chik-me{
     text-decoration: none;
     background-image: linear-gradient(salmon,rgb(19, 1, 1),tomato);
     background-color: salmon;
     padding: 10px 20px;
-    border-radius: 10%;
+    border-radius: 6%;
     font-weight: 700;
     color: aliceblue;
 
@@ -36,8 +36,11 @@ h1{
     width: 40%;
     float: left;
     padding-left: 7%;
-    
 }
 .paragirap{
-    color: rgb(168, 177, 184);
+    color: rgb(174, 177, 179);
+}
+.back{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
 }
